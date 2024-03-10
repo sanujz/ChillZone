@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = [".gg/chillzone"];
+const statusMessages = [".gg/chillzone","discord.gg/chillzone"];
 
 
 let currentIndex = 0;
